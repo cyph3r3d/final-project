@@ -1,7 +1,6 @@
-
 ### **3. `CODE_OF_CONDUCT.md` File**
 This file sets behavioral expectations for contributors. Example:
-
+####code
 ```markdown
 # Code of Conduct
 
