@@ -2,7 +2,7 @@
 
 Thank you for considering contributing to this project! Here are some guidelines to follow:
 
-## How to Contribute
+## How to Contribute to this git
 1. Fork this repository.
 2. Clone your forked repository:
    ```bash
